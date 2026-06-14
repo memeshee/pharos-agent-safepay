@@ -1,0 +1,15 @@
+# Foundry build and deployment output
+/out/
+/cache/
+/broadcast/
+
+# Local dependencies installed by `forge install`
+/lib/
+
+# JavaScript tooling
+/node_modules/
+
+# Local secrets and logs
+/.env
+/.private_key
+*.log

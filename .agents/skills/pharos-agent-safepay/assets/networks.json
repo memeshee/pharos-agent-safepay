@@ -1,0 +1,16 @@
+{
+  "atlantic": {
+    "name": "Pharos Atlantic Testnet",
+    "chainId": 688689,
+    "networkId": "eip155:688689",
+    "rpcUrl": "https://atlantic.dplabs-internal.com",
+    "wssUrl": "wss://atlantic.dplabs-internal.com",
+    "explorerUrl": "https://atlantic.pharosscan.xyz",
+    "explorerApiUrl": "https://api.socialscan.io/pharos-atlantic-testnet/v1/explorer/command_api/contract",
+    "nativeCurrency": {
+      "name": "PHRS",
+      "symbol": "PHRS",
+      "decimals": 18
+    }
+  }
+}
